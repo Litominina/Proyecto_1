@@ -57,8 +57,7 @@ a {
     color: inherit;
 }
 /* Este max-width es para que el contenido no se "estire" demasiado hacia los costados y
-*  el margin: auto; para tenerlo centrado fácilmente ;)
-*/
+*  el margin: auto; para tenerlo centrado fácilmente ;) */
 Body {
     max-width: 1200px;
     margin: auto;
