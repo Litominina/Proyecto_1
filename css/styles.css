@@ -34,7 +34,7 @@ header{
     align-items: center;
     display: flex;
     box-shadow: 1px 1px 5px #000;
-    padding-bottom: 1em;
+    padding: 1em 0em;
 }
 /* ancho del logo en em para que se vea bien en pc y cel y relleno*/
 #logo{
