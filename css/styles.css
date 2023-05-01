@@ -21,7 +21,8 @@ article{
 ul {
     list-style: none;
 }
-/* Encabezado: ancho, alto, reset, color de fondo, todo en el centro, la sombra del encabezado y una padding para que se vea bonito */
+/* Encabezado: ancho, alto, reset, color de fondo, todo en el centro,
+ la sombra del encabezado y una padding para que se vea bonito */
 header{
     position: fixed;
     top: 0;
@@ -40,7 +41,7 @@ header{
     width: 10em;
     padding: 1vh;
 }
-/* los botones del menu cons sus marquenes y fuentes*/
+/* los botones del menu cons sus margenes y fuentes*/
 #botoninicio, #botoncontacto{
     margin-left: 10px;
     margin-right: 10px;
@@ -77,7 +78,8 @@ h2{
     padding: 0.5em;
     width: 400px;
 }
-/* boton del CV: fondo, relleno, mas relleno hacia los lados que habia arriba y abajo, color de letras y tamaño de fuente */
+/* boton del CV: fondo, relleno, mas relleno hacia los lados que habia 
+arriba y abajo, color de letras y tamaño de fuente */
 #botoncv{
     background-color: #af599e;
     padding: 1vh 2vh;
@@ -85,7 +87,8 @@ h2{
     color: #fbfbfb;
     font-size: 20px;
 }
-/* caja seccion contanto donde esta el titulo y el parrafo: color fondo, letra, borde redondeado, y para que se vea mejo no del ancho entero de la pag */
+/* caja seccion contacto donde esta el titulo y el parrafo: color, fondo, letra, 
+borde redondeado, y para que se vea mejor centrado, no del ancho entero de la pag */
 #contacto1{
     background-color: rgba(175, 89, 158, 0.3);
     border-radius: 10px;
@@ -98,7 +101,7 @@ p{
     margin: 20px 0px;
 
 }
-/* al parrafo contacto le omdifique un poco el padding para que se viera mejor*/
+/* al parrafo contacto le modifique un poco el padding para que se viera mejor*/
 p#contacto{
     padding: 20px;
 }
@@ -106,7 +109,7 @@ p#contacto{
 .mail, .github, .linkedin{
     margin: 1em 1em;
 }
-/* el pie de paguna: con su color, fondo, alto y centrado */
+/* el pie de pagina: con su color, fondo, alto y centrado */
 footer{
     background-color:  #af599e;
     color: #fbfbfb;
@@ -115,7 +118,8 @@ footer{
     align-items: center;
     display: flex;
 }
-/* el formato de la pagina de enviar el correo (formulario) hereda la mayoria pero queria uqe tuviera ademas el estilo de contacto */
+/* el formato de la pagina de enviar el correo (formulario) hereda la mayoria 
+pero queria que tuviera ademas el estilo de contacto */
 .enviarcorreo{
     background-color:  rgba(175, 89, 158, 0.3);
     border-radius: 10px;
