@@ -28,12 +28,12 @@ header {
   left: 0;
   height: 90px;
   width: 100%;
-  background-color: #fbfbfb;
   justify-content: center;
   align-items: center;
   display: flex;
   box-shadow: 1px 1px 5px #000;
   padding: 1em 0em;
+  background-color: #fbfbfb;
 }
 /* ancho del logo en em para que se vea bien en pc y cel y relleno*/
 #logo {
